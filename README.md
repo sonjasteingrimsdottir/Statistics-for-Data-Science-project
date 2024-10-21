@@ -1,9 +1,9 @@
 # Statistics for Data Science 🌌
 
 ### Problem Statement
-In an effort to find life in the universe, a space mission discovers a small remote planet with inhabitants. Our task is to estimate the total population of the planet, denoted as **Nmax**. Since we cannot survey every inhabitant, we sample 100 inhabitants and record their assigned numbers, which range from 1 to **Nmax**. 
+In an effort to find life in the universe, a space mission discovers a small remote planet with inhabitants. The task is to estimate the total population of the planet, denoted as **Nmax**. Since we cannot survey every inhabitant, we sample 100 inhabitants and record their assigned numbers, which range from 1 to **Nmax**. 
 
-Using this data, we apply statistical methods to estimate **Nmax** through two approaches:
+Using this data, I apply statistical methods to estimate **Nmax** through two approaches:
 1. **Sample maximum (x(N)):** The largest observed number in the sample.
 2. **Twice the mean (2 * x̄):** Two times the average number in the sample.
 
